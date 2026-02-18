@@ -17,7 +17,7 @@ This project focuses on building a basic data scraping and ingestion pipeline.
 - Requests
 - BeautifulSoup
 - CSV
-- 
+
 ## Output
 - Structured CSV dataset created
 - Contains product name, price, ratings, sentiment, and date
